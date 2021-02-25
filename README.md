@@ -1,6 +1,6 @@
 # FreeVPN
 ## 关注公众号 影视资源Get
-![image](https://github.com/Sakura4036/FreeVPN/blob/main/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.jpg)
+![image](https://github.com/Sakura4036/FreeVPN/blob/main/yszyget.jpg)
 ### 自动获取节点请发送任意邮件到到 yszyget@126.com
 时间：2021年2月25日12:00
 今日分享：
