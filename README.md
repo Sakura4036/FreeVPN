@@ -2,7 +2,7 @@
 ## 关注公众号 影视资源Get
 ![image](https://github.com/Sakura4036/FreeVPN/blob/main/yszyget.jpg)
 ### 自动获取节点请发送任意邮件到到 yszyget@126.com
-时间：2021年3月4日11:30
+时间：2021年3月5日10:15
 今日分享：
 
 
