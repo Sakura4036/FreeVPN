@@ -3,6 +3,10 @@
 ![image](https://github.com/Sakura4036/FreeVPN/blob/main/yszyget.jpg)
 ### 自动获取节点请发送任意邮件到到 yszyget@126.com
 
+### 如果无法导入，则可将设备更新至最新版本试试
+安卓版v2rayNG最新下载链接：https://github.com/2dust/v2rayNG/releases
+windows端则使用v2rayN软件上方菜单栏中的检查更新功能
+
 ##所有资源来自互联网，请勿用作非法用途，否则后果自负 
 
 时间：2021年3月6日10:30
