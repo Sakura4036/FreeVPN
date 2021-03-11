@@ -3,6 +3,11 @@
 ![image](https://github.com/Sakura4036/FreeVPN/blob/main/yszyget.jpg)
 ### 自动获取节点请发送任意邮件到到 yszyget@126.com
 ### 二维码链接：
+https://ftp.bmp.ovh/imgs/2021/03/9577354dc4066c56.jpg
+https://ftp.bmp.ovh/imgs/2021/03/7147d5dc2442526d.jpg
+https://ftp.bmp.ovh/imgs/2021/03/2e856ebde2cf14dc.jpg
+https://ftp.bmp.ovh/imgs/2021/03/2436b3ee3f8499ed.jpg
+https://ftp.bmp.ovh/imgs/2021/03/e85fe78f7f60115d.jpg
 
 ### 如果无法导入，则可将设备更新至最新版本试试
 安卓版v2rayNG最新下载链接：https://github.com/2dust/v2rayNG/releases
