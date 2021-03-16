@@ -3,11 +3,11 @@
 ![image](https://github.com/Sakura4036/FreeVPN/blob/main/yszyget.jpg)
 ### 自动获取节点请发送任意邮件到到 yszyget@126.com
 ### 二维码链接：
-https://i.loli.net/2021/03/16/cRFgiwzSkj5lDvr.jpg
-https://i.loli.net/2021/03/16/AzGQ5ERXOPrDgpj.jpg
-https://i.loli.net/2021/03/16/LlDANMjHanWCvhO.jpg
-https://i.loli.net/2021/03/16/qgwNXlQ7hPi6C9G.jpg
-https://i.loli.net/2021/03/16/N6VwyDZTHWvlGY2.jpg
+  https://i.loli.net/2021/03/16/cRFgiwzSkj5lDvr.jpg
+  https://i.loli.net/2021/03/16/AzGQ5ERXOPrDgpj.jpg
+  https://i.loli.net/2021/03/16/LlDANMjHanWCvhO.jpg
+  https://i.loli.net/2021/03/16/qgwNXlQ7hPi6C9G.jpg
+  https://i.loli.net/2021/03/16/N6VwyDZTHWvlGY2.jpg
 
 ### 如果无法导入，则可将设备更新至最新版本试试
 安卓版v2rayNG最新下载链接：https://github.com/2dust/v2rayNG/releases
